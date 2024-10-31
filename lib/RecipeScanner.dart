@@ -180,7 +180,7 @@ class _RecipeScannerState extends State<RecipeScanner> with WidgetsBindingObserv
                             onPressed: () {
                               /*Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>
                               MainPage(currentIndex: 1, recipeList: ingList)));*/
-                            }, text: 'add_calculator'),
+                            }, text: 'add to calculator'),
                       ],
                     ),
                 ),
